@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Zhou XU "
+title                    : "Zhou XU / 徐洲"
 title_separator          : "-"
 name                     : &name "Zhou XU"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "imbalence.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhou XU / 徐洲"
+  name             : "Zhou XU "
   pronouns         : "he/him"
   bio              : "Electron Microscopist / maker"
   location         : "Mlbourne, Australia"
-  employer         : "Monash University"
+  employer         : "Monash Centre for Electron Microscopy"
   uri              : # URL
   email            : "zhou.xu@monash.edu" 
 
