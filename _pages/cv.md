@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Materials Science and Engineering, Monash University, 2014
+* B.S. in Materials Engineering (Hons.), Monash University, 2007
+* B.S. in Materials Science and Engineering, Wuhan University of Technology, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-present: Electron microscope scientist
+  * Monash Centre for Electron Microscopy, Monash University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Product specialist
+  * Thermo Fisher Scientific (AU)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015-2017: Senior TEM Application Specialist
+  * FEI/Thermo Fisher Scientific - Shanghai Nanoport
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2013-2015: Research Fellow
+  * ARC Centre of Excellence for Design in Light Metals, Monash University
+  * Monash Centre for Additive Manufacturing, Monash University
+
+* 2008-2013: Postgraduate researcher
+  * ARC Centre of Excellence for Design in Light Metals, Monash University
+
+* 2006-2007: Modelling engineer
+  * Rio Tinto Aluminium Technology

@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhou XU's research page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of my research page. More content will be added in the future.
+My name is Zhou XU (徐洲). I work at Monash Centre for Electron Microscopy as an electron microscope scientist. This is my research page documenting my exciting findings and developments. More content will be updated here soon.
